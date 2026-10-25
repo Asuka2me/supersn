@@ -1,0 +1,21 @@
+{
+  "category": "Steel_Rp",
+  "image_auroc": 1.0,
+  "image_ap": 1.0,
+  "pixel_auroc": 0.9252156019210815,
+  "pixel_ap": 0.7050390839576721,
+  "pixel_aupro": 0.7617121934890747,
+  "precision": 0.7142857142857143,
+  "recall": 1.0,
+  "f1": 0.8333333333333333,
+  "accuracy": 0.8,
+  "pixel_precision": 0.1732750568126368,
+  "pixel_recall": 0.8635400382143478,
+  "pixel_f1": 0.2886338169636377,
+  "pixel_iou": 0.16865695946587778,
+  "box_precision": 0.25,
+  "box_recall": 0.2458333333333333,
+  "box_f1": 0.2325,
+  "box_ap50": 0.19375,
+  "box_mean_iou": 0.25624303038351304
+}

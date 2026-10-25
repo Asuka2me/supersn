@@ -1,0 +1,21 @@
+{
+  "category": "Steel_Pa",
+  "image_auroc": 1.0,
+  "image_ap": 1.0,
+  "pixel_auroc": 0.9864798784255981,
+  "pixel_ap": 0.924505352973938,
+  "pixel_aupro": 0.8975237607955933,
+  "precision": 0.6666666666666666,
+  "recall": 1.0,
+  "f1": 0.8,
+  "accuracy": 0.75,
+  "pixel_precision": 0.5605829395012708,
+  "pixel_recall": 0.9601858489081595,
+  "pixel_f1": 0.707883814753232,
+  "pixel_iou": 0.5478484232577279,
+  "box_precision": 0.305,
+  "box_recall": 0.33916666666666667,
+  "box_f1": 0.3078174603174603,
+  "box_ap50": 0.2543055555555555,
+  "box_mean_iou": 0.35275103407336766
+}
